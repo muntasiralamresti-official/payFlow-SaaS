@@ -11,7 +11,7 @@ const Banner = () => {
             <div className='max-w-2/3'>
                 <h1 className='font-bold text-6xl text-primary'>Receive funds faster.<br/> Manage money smarter.</h1>
                 <p className='font-secondary text-xl font-semibold pt-5 max-w-[625px] text-primary/60'>A modern payment platform designed to help growing businesses collect, store, and move money with confidence.</p>
-                <div className="search-bar bg-[#F1F1F1] flex items-center rounded-md h-fit w-full md:max-w-md xl:max-w-3xl order-3 md:order-2">
+                <div className="search-bar bg-[#F1F1F1] flex items-center rounded-md h-fit w-full">
                     <Input placeholder="Enter Your Business Email" />
                       <Button className="rounded-l-none px-4 flex-wrap font-primary font-bold text-xl">
                          Get Started

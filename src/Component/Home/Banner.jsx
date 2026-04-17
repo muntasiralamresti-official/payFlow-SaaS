@@ -20,7 +20,9 @@ const Banner = () => {
             </div>
             
             {/* Header-card */}
-            <div className='max-w-1/3'></div>
+            <div className='max-w-1/3'>
+              
+            </div>
           </div>
        </section>
   )

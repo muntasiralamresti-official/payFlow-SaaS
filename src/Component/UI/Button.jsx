@@ -11,7 +11,7 @@ const Button = ({
 }) => {
 
   const baseStyle =
-    "px-6 py-3 rounded-lg cursor-pointer font-medium transition duration-200";
+    "px-6 py-3 rounded-lg cursor-pointer font-medium transition duration-200 whitespace-nowrap";
 
   const variants = {
     primary: "bg-brand text-primary",
